@@ -10,7 +10,7 @@
 |          | MSML                       | https://www.ml.cmu.edu/academics/primary-ms-machine-learning-masters.html | 无明确，平均TF 113                                           | 无明确，平均330+         | 王牌专业，感觉没必要抽奖December 11, 2024     |
 |          | MCDS                       | https://lti.cmu.edu/academics/masters-programs/mcds.html     | TF: 100+, IEITS: 7.5+                                        | 无明确                   | December 11, 2024                             |
 | MIT      | PhD with Ms                | https://www.eecs.mit.edu/academics/graduate-programs/admission-process/ | TOEFL: 100, IELTS: 7 (Waived)                                | No GRE required          | December 3, 2024                              |
-|          |                            |                                                              |                                                              |                          |                                               |
+|          | ORC                        | https://orc.mit.edu/academics/masters-operations-research/   | T 100, I 7                                                   | NO GRE                   | December 15                                   |
 |          |                            |                                                              |                                                              |                          |                                               |
 |          |                            |                                                              |                                                              |                          |                                               |
 
