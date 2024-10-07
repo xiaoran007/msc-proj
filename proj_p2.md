@@ -1,1 +1,1 @@
-pass
+pass UCLA, Umich, UCSD, Uwash
